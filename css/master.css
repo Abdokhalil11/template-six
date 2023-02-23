@@ -206,7 +206,7 @@ header .container i:not(.logo > i ){
 /* start body */
 .body{
     position: relative;
-    background-image: url("/imgs/Background.png");
+    background-image: url("../imgs/Background.png");
     padding-top: 100px;
 }
 .body .container .text span:first-child{
